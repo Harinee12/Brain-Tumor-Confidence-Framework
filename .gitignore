@@ -1,0 +1,6 @@
+dataset/
+*.zip
+*.pth
+kaggle.json
+sample_data/
+.config/
